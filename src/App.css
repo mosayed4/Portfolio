@@ -116,8 +116,9 @@ span.navbar-text {
 .social-icon {
     display: inline-block;
     margin-left: 14px;
-}
-.social-icon a {
+  }
+  .social-icon a {
+  margin-top: 10px;
     width: 42px;
     height: 42px;
     background: rgba(217, 217, 217, 0.1);
