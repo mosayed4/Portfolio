@@ -98,7 +98,7 @@ export const NavBar = () => {
                 <span></span>
               </HashLink>
 
-              <a href="https://drive.google.com/file/d/1-ilicuSalLySLkR295yb28iPvmJQvovA/view">
+              <a href="https://drive.google.com/file/d/1akGCzlqDWdkXXW_yZNc1qc8XPFtVJ5et/view?usp=drive_link">
                 <button className="vvd">
                   <span> GO To See CV </span>
                 </button>
