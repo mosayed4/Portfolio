@@ -8,6 +8,8 @@ import { HashLink } from "react-router-hash-link";
 import { FaGithub } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 
+
+
 import { BrowserRouter as Router } from "react-router-dom";
 
 export const NavBar = () => {
